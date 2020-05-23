@@ -14,4 +14,7 @@ STM32F4 + MQTT + mbedTLS example
 - Added MQTTInerface.c/h files to port paho MQTT library for STM32 HAL + FREERTOS + LWIP
 - Added mbedTLS library to MQTTInterface.c/h
 
-3. Tutorial & Videos
+3. Tutorial & Videos (Written in Korean) <br>
+https://blog.naver.com/eziya76/221976226378 <br>
+https://youtu.be/bJi3Q6a76Yk <br>
+
