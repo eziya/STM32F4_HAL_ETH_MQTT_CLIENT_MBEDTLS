@@ -9,6 +9,7 @@ STM32F4 + MQTT + mbedTLS example
 - https://engschool.tistory.com/entry/SSLTLS-embedded-for-IoT-8 <br>
 - https://cxemotexnika.org/2018/10/primer-zashhishhennogo-https-soedineniya-s-ispolzovaniem-mbed-tls/ <br>
 - https://github.com/PetroShevchenko/cxemotexnika/tree/master/Examples/NUCLEO_F429ZI/nucleo_f429zi_https_client <br>
+- https://www.st.com/resource/en/user_manual/dm00470937-getting-started-with-xcubecldgen-iot-cloud-generic-software-expansion-for-stm32cube-stmicroelectronics.pdf <br>
 
 2. Implementation
 - Added MQTTInerface.c/h files to port paho MQTT library for STM32 HAL + FREERTOS + LWIP
