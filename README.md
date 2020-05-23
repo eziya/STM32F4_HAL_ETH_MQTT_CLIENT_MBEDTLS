@@ -14,6 +14,8 @@ STM32F4 + MQTT + mbedTLS example
 2. Implementation
 - Added MQTTInerface.c/h files to port paho MQTT library for STM32 HAL + FREERTOS + LWIP
 - Added mbedTLS library to MQTTInterface.c/h
+- Generated certificates and key with openssl
+- Run mosquitto on Raspberry Pi
 
 3. Tutorial & Videos (Written in Korean) <br>
 https://blog.naver.com/eziya76/221976226378 <br>
